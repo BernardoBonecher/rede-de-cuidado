@@ -1,0 +1,10 @@
+.env.local
+.test-hashes.json
+.create-users.sql
+node_modules/
+dist/
+.claude/
+.vscode/
+.env
+Thumbs.db
+*.tsbuildinfo
